@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
@@ -129,6 +132,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lOsjkyDWQt3bNLgzPWA0m4Wcdy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,11 +159,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607479609132</updated>
-      <workItem from="1607479613575" duration="1622000" />
+      <workItem from="1607479613575" duration="7828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
