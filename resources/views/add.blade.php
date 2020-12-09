@@ -13,8 +13,8 @@
 <body>
 <form action="{{route('create')}}" method="post" style="width: 100%;">
     @csrf
-    <p>Thêm mới đại lí phân phối</p>
-    <table style="margin-left: 5%;">
+    <h1 style="text-align: center">Thêm mới đại lí phân phối</h1>
+    <table style="margin-left: 35%;">
         <tr>
             <td>
                 <p>Mã số đại lí:</p>
@@ -62,7 +62,7 @@
             </td>
         </tr>
         <tr>
-            <td></td>
+            <td><a href="{{route('index')}}" class="btn btn-primary">Back</a></td>
             <td style="text-align: right"><button class="btn btn-primary">Submit</button></td>
         </tr>
     </table>

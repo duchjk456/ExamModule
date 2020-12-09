@@ -105,6 +105,6 @@ class AgenciesController extends Controller
     {
         $agency=Agencies::findOrFail($id);
         $agency->delete();
-        return route('index');
+        return redirect()->route('index');
     }
 }

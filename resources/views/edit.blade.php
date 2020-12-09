@@ -62,7 +62,7 @@
             </td>
         </tr>
         <tr>
-            <td></td>
+            <td><a href="{{route('index')}}" class="btn btn-primary">Back</a></td>
             <td style="text-align: right"><button class="btn btn-primary">Submit</button></td>
         </tr>
     </table>
