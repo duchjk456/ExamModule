@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\Add;
+use App\Http\Requests\Edit;
 use App\Models\Agencies;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
@@ -87,7 +88,7 @@ class AgenciesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response|string
      */
-    public function update(Request $request, $id)
+    public function update(Edit $request, $id)
     {
         $agency=Agencies::findOrFail($id);
         $agency->fill($request->all());

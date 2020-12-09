@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf85f5fd-9273-4667-92a6-b7a5d2ae6cfd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/add.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/add.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AgenciesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AgenciesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607479609132</updated>
-      <workItem from="1607479613575" duration="8135000" />
+      <workItem from="1607479613575" duration="9441000" />
     </task>
     <servers />
   </component>
